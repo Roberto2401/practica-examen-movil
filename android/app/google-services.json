@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "618946772861",
+    "project_id": "practicaexamen-ec81d",
+    "storage_bucket": "practicaexamen-ec81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618946772861:android:6b4ded30daa2e7d5be9614",
+        "android_client_info": {
+          "package_name": "com.mycompany.practicadeexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618946772861-q1trd515s3vikhj8vp6nfsos4vcibq19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRStorZRGIrl8xaVXBRLktHlh0J1Niko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618946772861-q1trd515s3vikhj8vp6nfsos4vcibq19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618946772861-r1drnf4vlfsphipn2a2fkrbcelg9h5ml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.practicadeexamen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
